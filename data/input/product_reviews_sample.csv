@@ -1,0 +1,301 @@
+product_category,review_text,sentiment,data_origin
+Mouse,Does not work as advertised. Waste of money.,negative,synthetic_demo
+SSD,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Bluetooth Speaker,"Excellent Bluetooth Speaker, works perfectly and the quality is impressive.",positive,synthetic_demo
+SSD,"Works exactly as described, worth buying.",positive,synthetic_demo
+Smartphone,"The Smartphone exceeded my expectations. Highly recommended. Overall, I like it.",positive,synthetic_demo
+Wireless Earbuds,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Smartphone,"Very disappointed, poor quality and not worth the price. Overall, I dislike it.",negative,synthetic_demo
+Wireless Earbuds,"Battery drains quickly and performance is slow. Overall, I dislike it.",negative,synthetic_demo
+SSD,"Excellent SSD, works perfectly and the quality is impressive.",positive,synthetic_demo
+Monitor,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Power Bank,"Clear sound and comfortable design. Very satisfied. Overall, I like it.",positive,synthetic_demo
+Monitor,The quality is acceptable for this price range.,neutral,synthetic_demo
+Keyboard,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Wireless Earbuds,"Packaging was normal and delivery took three days. Overall, it is fine.",neutral,synthetic_demo
+Monitor,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Bluetooth Speaker,Product matches most of the description.,neutral,synthetic_demo
+Laptop,The Laptop is okay. It performs the basic functions.,neutral,synthetic_demo
+Webcam,I am very happy with this Webcam; great value for money.,positive,synthetic_demo
+Webcam,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Keyboard,"Terrible Keyboard, stopped working after a few days.",negative,synthetic_demo
+Monitor,It is a standard Monitor for everyday use.,neutral,synthetic_demo
+Laptop,I am very happy with this Laptop; great value for money.,positive,synthetic_demo
+Power Bank,"Product matches most of the description. Overall, it is fine.",neutral,synthetic_demo
+Laptop,Product matches most of the description.,neutral,synthetic_demo
+Power Bank,"Sound is poor and the fit is uncomfortable. Overall, I dislike it.",negative,synthetic_demo
+Keyboard,Does not work as advertised. Waste of money.,negative,synthetic_demo
+Mouse,The Mouse is okay. It performs the basic functions.,neutral,synthetic_demo
+Mouse,Product matches most of the description.,neutral,synthetic_demo
+Mouse,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Monitor,The Monitor exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Keyboard,Average product with a few useful features.,neutral,synthetic_demo
+Keyboard,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Wireless Earbuds,Received a defective item. Would not recommend.,negative,synthetic_demo
+Power Bank,"Works exactly as described, worth buying.",positive,synthetic_demo
+Laptop,The quality is acceptable for this price range.,neutral,synthetic_demo
+Laptop,Received a defective item. Would not recommend.,negative,synthetic_demo
+Smartphone,"Not bad, not great; an average experience. Overall, it is fine.",neutral,synthetic_demo
+Bluetooth Speaker,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+Monitor,Does not work as advertised. Waste of money.,negative,synthetic_demo
+Webcam,"Fast performance, reliable build and easy to use. Overall, I like it.",positive,synthetic_demo
+Keyboard,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Smartphone,Product matches most of the description.,neutral,synthetic_demo
+Mouse,"It works, but there is nothing particularly special. Overall, it is fine.",neutral,synthetic_demo
+Keyboard,"Excellent Keyboard, works perfectly and the quality is impressive.",positive,synthetic_demo
+Webcam,"The quality is acceptable for this price range. Overall, it is fine.",neutral,synthetic_demo
+Wireless Earbuds,"Terrible Wireless Earbuds, stopped working after a few days. Overall, I dislike it.",negative,synthetic_demo
+Laptop,"Not bad, not great; an average experience.",neutral,synthetic_demo
+SSD,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+Webcam,"Setup was straightforward and performance is moderate. Overall, it is fine.",neutral,synthetic_demo
+Monitor,"Excellent Monitor, works perfectly and the quality is impressive.",positive,synthetic_demo
+Mouse,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+SSD,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Mouse,Good quality materials and smooth performance.,positive,synthetic_demo
+Keyboard,Product matches most of the description.,neutral,synthetic_demo
+Keyboard,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+SSD,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Keyboard,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Monitor,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Power Bank,"Packaging was normal and delivery took three days. Overall, it is fine.",neutral,synthetic_demo
+SSD,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+Smartphone,"Some features are useful while others are ordinary. Overall, it is fine.",neutral,synthetic_demo
+Keyboard,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Mouse,"Excellent Mouse, works perfectly and the quality is impressive.",positive,synthetic_demo
+Mouse,"Average product with a few useful features. Overall, it is fine.",neutral,synthetic_demo
+Webcam,"The Webcam is okay. It performs the basic functions. Overall, it is fine.",neutral,synthetic_demo
+Bluetooth Speaker,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Mouse,"It is a standard Mouse for everyday use. Overall, it is fine.",neutral,synthetic_demo
+Smartphone,"Bad build quality, buttons feel cheap. Overall, I dislike it.",negative,synthetic_demo
+Monitor,I am very happy with this Monitor; great value for money.,positive,synthetic_demo
+Bluetooth Speaker,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Smartphone,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+Laptop,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+Wireless Earbuds,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Laptop,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Bluetooth Speaker,It is a standard Bluetooth Speaker for everyday use.,neutral,synthetic_demo
+SSD,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+Power Bank,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+SSD,Good quality materials and smooth performance.,positive,synthetic_demo
+Monitor,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Mouse,"Very disappointed, poor quality and not worth the price. Overall, I dislike it.",negative,synthetic_demo
+Mouse,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Laptop,Does not work as advertised. Waste of money.,negative,synthetic_demo
+Bluetooth Speaker,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Smartphone,The quality is acceptable for this price range.,neutral,synthetic_demo
+Webcam,"Battery drains quickly and performance is slow. Overall, I dislike it.",negative,synthetic_demo
+Wireless Earbuds,Average product with a few useful features.,neutral,synthetic_demo
+Laptop,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Webcam,"Product matches most of the description. Overall, it is fine.",neutral,synthetic_demo
+SSD,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Mouse,"Fast performance, reliable build and easy to use.",positive,synthetic_demo
+Bluetooth Speaker,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+Bluetooth Speaker,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+SSD,It is a standard SSD for everyday use.,neutral,synthetic_demo
+Monitor,Battery life is great and setup was simple.,positive,synthetic_demo
+Laptop,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+Webcam,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+Laptop,"Excellent Laptop, works perfectly and the quality is impressive.",positive,synthetic_demo
+Laptop,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Webcam,"Clear sound and comfortable design. Very satisfied. Overall, I like it.",positive,synthetic_demo
+Laptop,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+Mouse,"The Mouse exceeded my expectations. Highly recommended. Overall, I like it.",positive,synthetic_demo
+Monitor,Product matches most of the description.,neutral,synthetic_demo
+Smartphone,"It works, but there is nothing particularly special. Overall, it is fine.",neutral,synthetic_demo
+Monitor,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+Bluetooth Speaker,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Mouse,"Terrible Mouse, stopped working after a few days.",negative,synthetic_demo
+Keyboard,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+Laptop,Battery life is great and setup was simple.,positive,synthetic_demo
+Wireless Earbuds,"Works exactly as described, worth buying.",positive,synthetic_demo
+Wireless Earbuds,"Clear sound and comfortable design. Very satisfied. Overall, I like it.",positive,synthetic_demo
+Power Bank,"Fast performance, reliable build and easy to use. Overall, I like it.",positive,synthetic_demo
+Power Bank,"Does not work as advertised. Waste of money. Overall, I dislike it.",negative,synthetic_demo
+Mouse,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Laptop,"Terrible Laptop, stopped working after a few days.",negative,synthetic_demo
+Power Bank,Received a defective item. Would not recommend.,negative,synthetic_demo
+Wireless Earbuds,"Setup was straightforward and performance is moderate. Overall, it is fine.",neutral,synthetic_demo
+Power Bank,"The quality is acceptable for this price range. Overall, it is fine.",neutral,synthetic_demo
+Power Bank,"Connection keeps dropping. I regret buying this. Overall, I dislike it.",negative,synthetic_demo
+SSD,The SSD is okay. It performs the basic functions.,neutral,synthetic_demo
+Wireless Earbuds,"Product matches most of the description. Overall, it is fine.",neutral,synthetic_demo
+Smartphone,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+Wireless Earbuds,I am very happy with this Wireless Earbuds; great value for money.,positive,synthetic_demo
+Laptop,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Smartphone,"Fantastic purchase, no issues so far. Overall, I like it.",positive,synthetic_demo
+Laptop,It is a standard Laptop for everyday use.,neutral,synthetic_demo
+Wireless Earbuds,Battery life is great and setup was simple.,positive,synthetic_demo
+Bluetooth Speaker,"Works exactly as described, worth buying.",positive,synthetic_demo
+Laptop,"Works exactly as described, worth buying.",positive,synthetic_demo
+Webcam,The Webcam exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Webcam,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Keyboard,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Power Bank,"Amazing product, delivery was quick and packaging was good. Overall, I like it.",positive,synthetic_demo
+Mouse,"Some features are useful while others are ordinary. Overall, it is fine.",neutral,synthetic_demo
+Smartphone,"Excellent Smartphone, works perfectly and the quality is impressive.",positive,synthetic_demo
+Power Bank,It is a standard Power Bank for everyday use.,neutral,synthetic_demo
+SSD,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+Power Bank,"Setup was straightforward and performance is moderate. Overall, it is fine.",neutral,synthetic_demo
+Monitor,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Wireless Earbuds,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+Wireless Earbuds,The Wireless Earbuds exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Monitor,The Monitor is okay. It performs the basic functions.,neutral,synthetic_demo
+Mouse,"Battery life is great and setup was simple. Overall, I like it.",positive,synthetic_demo
+Bluetooth Speaker,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+SSD,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+Monitor,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+Webcam,"Terrible Webcam, stopped working after a few days. Overall, I dislike it.",negative,synthetic_demo
+Bluetooth Speaker,Average product with a few useful features.,neutral,synthetic_demo
+Wireless Earbuds,"Excellent Wireless Earbuds, works perfectly and the quality is impressive. Overall, I like it.",positive,synthetic_demo
+Webcam,Average product with a few useful features.,neutral,synthetic_demo
+Webcam,"Connection keeps dropping. I regret buying this. Overall, I dislike it.",negative,synthetic_demo
+Mouse,The quality is acceptable for this price range.,neutral,synthetic_demo
+Monitor,"Fast performance, reliable build and easy to use.",positive,synthetic_demo
+Wireless Earbuds,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+Bluetooth Speaker,The Bluetooth Speaker exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Laptop,Average product with a few useful features.,neutral,synthetic_demo
+Power Bank,"Battery drains quickly and performance is slow. Overall, I dislike it.",negative,synthetic_demo
+SSD,I am very happy with this SSD; great value for money.,positive,synthetic_demo
+Smartphone,"Fast performance, reliable build and easy to use.",positive,synthetic_demo
+Laptop,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Power Bank,"Excellent Power Bank, works perfectly and the quality is impressive. Overall, I like it.",positive,synthetic_demo
+Smartphone,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Monitor,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+Mouse,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Power Bank,Average product with a few useful features.,neutral,synthetic_demo
+Webcam,"Works exactly as described, worth buying.",positive,synthetic_demo
+Wireless Earbuds,"The Wireless Earbuds is okay. It performs the basic functions. Overall, it is fine.",neutral,synthetic_demo
+Smartphone,"Overheats frequently and shuts down unexpectedly. Overall, I dislike it.",negative,synthetic_demo
+Webcam,"Sound is poor and the fit is uncomfortable. Overall, I dislike it.",negative,synthetic_demo
+Bluetooth Speaker,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Wireless Earbuds,"Does not work as advertised. Waste of money. Overall, I dislike it.",negative,synthetic_demo
+SSD,"Fast performance, reliable build and easy to use.",positive,synthetic_demo
+Webcam,"Excellent Webcam, works perfectly and the quality is impressive. Overall, I like it.",positive,synthetic_demo
+Webcam,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Keyboard,The Keyboard exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Mouse,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Wireless Earbuds,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Bluetooth Speaker,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Laptop,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Smartphone,"I am very happy with this Smartphone; great value for money. Overall, I like it.",positive,synthetic_demo
+Smartphone,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Smartphone,"Terrible Smartphone, stopped working after a few days.",negative,synthetic_demo
+SSD,Received a defective item. Would not recommend.,negative,synthetic_demo
+SSD,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Webcam,"Does not work as advertised. Waste of money. Overall, I dislike it.",negative,synthetic_demo
+Bluetooth Speaker,"Terrible Bluetooth Speaker, stopped working after a few days.",negative,synthetic_demo
+Keyboard,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+SSD,The quality is acceptable for this price range.,neutral,synthetic_demo
+Monitor,Good quality materials and smooth performance.,positive,synthetic_demo
+Bluetooth Speaker,Battery life is great and setup was simple.,positive,synthetic_demo
+Mouse,"Fantastic purchase, no issues so far. Overall, I like it.",positive,synthetic_demo
+Bluetooth Speaker,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Power Bank,"Terrible Power Bank, stopped working after a few days. Overall, I dislike it.",negative,synthetic_demo
+Smartphone,The Smartphone is okay. It performs the basic functions.,neutral,synthetic_demo
+Bluetooth Speaker,Received a defective item. Would not recommend.,negative,synthetic_demo
+Bluetooth Speaker,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+SSD,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Keyboard,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+Power Bank,"The Power Bank is okay. It performs the basic functions. Overall, it is fine.",neutral,synthetic_demo
+Monitor,Received a defective item. Would not recommend.,negative,synthetic_demo
+Power Bank,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+SSD,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Webcam,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Smartphone,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Wireless Earbuds,"Good quality materials and smooth performance. Overall, I like it.",positive,synthetic_demo
+Webcam,"Good quality materials and smooth performance. Overall, I like it.",positive,synthetic_demo
+Webcam,"Packaging was normal and delivery took three days. Overall, it is fine.",neutral,synthetic_demo
+Power Bank,The Power Bank exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Webcam,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+Mouse,"Bad build quality, buttons feel cheap. Overall, I dislike it.",negative,synthetic_demo
+Keyboard,I am very happy with this Keyboard; great value for money.,positive,synthetic_demo
+Monitor,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Mouse,"I am very happy with this Mouse; great value for money. Overall, I like it.",positive,synthetic_demo
+Smartphone,"It is a standard Smartphone for everyday use. Overall, it is fine.",neutral,synthetic_demo
+Keyboard,It is a standard Keyboard for everyday use.,neutral,synthetic_demo
+Keyboard,Received a defective item. Would not recommend.,negative,synthetic_demo
+SSD,The SSD exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Wireless Earbuds,"The quality is acceptable for this price range. Overall, it is fine.",neutral,synthetic_demo
+Webcam,Received a defective item. Would not recommend.,negative,synthetic_demo
+Power Bank,"Not bad, not great; an average experience.",neutral,synthetic_demo
+Smartphone,Good quality materials and smooth performance.,positive,synthetic_demo
+Mouse,Connection keeps dropping. I regret buying this.,negative,synthetic_demo
+Mouse,"Received a defective item. Would not recommend. Overall, I dislike it.",negative,synthetic_demo
+Keyboard,"Works exactly as described, worth buying.",positive,synthetic_demo
+Bluetooth Speaker,The Bluetooth Speaker is okay. It performs the basic functions.,neutral,synthetic_demo
+Monitor,"Terrible Monitor, stopped working after a few days.",negative,synthetic_demo
+Webcam,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+Monitor,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+Keyboard,The Keyboard is okay. It performs the basic functions.,neutral,synthetic_demo
+SSD,Does not work as advertised. Waste of money.,negative,synthetic_demo
+Webcam,"Amazing product, delivery was quick and packaging was good. Overall, I like it.",positive,synthetic_demo
+Laptop,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Keyboard,Good quality materials and smooth performance.,positive,synthetic_demo
+Wireless Earbuds,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+Power Bank,Battery life is great and setup was simple.,positive,synthetic_demo
+Laptop,The Laptop exceeded my expectations. Highly recommended.,positive,synthetic_demo
+Keyboard,"Fast performance, reliable build and easy to use.",positive,synthetic_demo
+Keyboard,The quality is acceptable for this price range.,neutral,synthetic_demo
+Smartphone,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Mouse,"Overheats frequently and shuts down unexpectedly. Overall, I dislike it.",negative,synthetic_demo
+Power Bank,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+Bluetooth Speaker,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+Monitor,"Works exactly as described, worth buying.",positive,synthetic_demo
+Laptop,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+SSD,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Webcam,It is a standard Webcam for everyday use.,neutral,synthetic_demo
+Wireless Earbuds,"Fast performance, reliable build and easy to use. Overall, I like it.",positive,synthetic_demo
+Power Bank,I am very happy with this Power Bank; great value for money.,positive,synthetic_demo
+Bluetooth Speaker,Does not work as advertised. Waste of money.,negative,synthetic_demo
+Webcam,Battery life is great and setup was simple.,positive,synthetic_demo
+SSD,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Laptop,"Fast performance, reliable build and easy to use.",positive,synthetic_demo
+Bluetooth Speaker,Good quality materials and smooth performance.,positive,synthetic_demo
+Wireless Earbuds,"Sound is poor and the fit is uncomfortable. Overall, I dislike it.",negative,synthetic_demo
+Monitor,Average product with a few useful features.,neutral,synthetic_demo
+Bluetooth Speaker,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+Monitor,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Wireless Earbuds,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Wireless Earbuds,"Amazing product, delivery was quick and packaging was good. Overall, I like it.",positive,synthetic_demo
+Keyboard,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Keyboard,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+Monitor,Setup was straightforward and performance is moderate.,neutral,synthetic_demo
+Smartphone,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Monitor,Sound is poor and the fit is uncomfortable.,negative,synthetic_demo
+Mouse,"The product arrived damaged and support was unhelpful. Overall, I dislike it.",negative,synthetic_demo
+Keyboard,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+SSD,Battery life is great and setup was simple.,positive,synthetic_demo
+Power Bank,The product arrived damaged and support was unhelpful.,negative,synthetic_demo
+Bluetooth Speaker,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Keyboard,Packaging was normal and delivery took three days.,neutral,synthetic_demo
+Smartphone,"Received a defective item. Would not recommend. Overall, I dislike it.",negative,synthetic_demo
+Wireless Earbuds,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+SSD,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+Bluetooth Speaker,The quality is acceptable for this price range.,neutral,synthetic_demo
+Power Bank,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+Wireless Earbuds,It is a standard Wireless Earbuds for everyday use.,neutral,synthetic_demo
+Laptop,"Fantastic purchase, no issues so far.",positive,synthetic_demo
+Keyboard,Battery life is great and setup was simple.,positive,synthetic_demo
+Smartphone,Does not work as advertised. Waste of money.,negative,synthetic_demo
+SSD,Average product with a few useful features.,neutral,synthetic_demo
+Smartphone,"The product arrived damaged and support was unhelpful. Overall, I dislike it.",negative,synthetic_demo
+Power Bank,Some features are useful while others are ordinary.,neutral,synthetic_demo
+Smartphone,"Average product with a few useful features. Overall, it is fine.",neutral,synthetic_demo
+Laptop,"Very disappointed, poor quality and not worth the price.",negative,synthetic_demo
+Keyboard,"Amazing product, delivery was quick and packaging was good.",positive,synthetic_demo
+Webcam,"It works, but there is nothing particularly special.",neutral,synthetic_demo
+SSD,"Terrible SSD, stopped working after a few days.",negative,synthetic_demo
+Laptop,Battery drains quickly and performance is slow.,negative,synthetic_demo
+Bluetooth Speaker,I am very happy with this Bluetooth Speaker; great value for money.,positive,synthetic_demo
+Monitor,Clear sound and comfortable design. Very satisfied.,positive,synthetic_demo
+Mouse,"Works exactly as described, worth buying. Overall, I like it.",positive,synthetic_demo
+Mouse,"Not bad, not great; an average experience. Overall, it is fine.",neutral,synthetic_demo
+Power Bank,"Good quality materials and smooth performance. Overall, I like it.",positive,synthetic_demo
+SSD,Product matches most of the description.,neutral,synthetic_demo
+Smartphone,"Works exactly as described, worth buying. Overall, I like it.",positive,synthetic_demo
+Laptop,Good quality materials and smooth performance.,positive,synthetic_demo
+Power Bank,"Bad build quality, buttons feel cheap.",negative,synthetic_demo
+Monitor,Overheats frequently and shuts down unexpectedly.,negative,synthetic_demo
+Wireless Earbuds,"Connection keeps dropping. I regret buying this. Overall, I dislike it.",negative,synthetic_demo
+Smartphone,"Battery life is great and setup was simple. Overall, I like it.",positive,synthetic_demo
+Bluetooth Speaker,"Fast performance, reliable build and easy to use.",positive,synthetic_demo

@@ -1,0 +1,61 @@
+review_text,actual_sentiment,predicted_sentiment
+"Battery drains quickly and performance is slow. Overall, I dislike it.",negative,negative
+Received a defective item. Would not recommend.,negative,negative
+"Clear sound and comfortable design. Very satisfied. Overall, I like it.",positive,positive
+"Amazing product, delivery was quick and packaging was good.",positive,positive
+"Battery life is great and setup was simple. Overall, I like it.",positive,positive
+Battery drains quickly and performance is slow.,negative,negative
+"Setup was straightforward and performance is moderate. Overall, it is fine.",neutral,neutral
+"Terrible Smartphone, stopped working after a few days.",negative,negative
+"Works exactly as described, worth buying.",positive,positive
+"Very disappointed, poor quality and not worth the price.",negative,negative
+"Very disappointed, poor quality and not worth the price.",negative,negative
+"Works exactly as described, worth buying.",positive,positive
+"Works exactly as described, worth buying.",positive,positive
+Setup was straightforward and performance is moderate.,neutral,neutral
+Some features are useful while others are ordinary.,neutral,neutral
+The Laptop exceeded my expectations. Highly recommended.,positive,positive
+Overheats frequently and shuts down unexpectedly.,negative,negative
+"Works exactly as described, worth buying.",positive,positive
+The product arrived damaged and support was unhelpful.,negative,negative
+"Very disappointed, poor quality and not worth the price. Overall, I dislike it.",negative,negative
+"Average product with a few useful features. Overall, it is fine.",neutral,neutral
+Received a defective item. Would not recommend.,negative,negative
+"Bad build quality, buttons feel cheap. Overall, I dislike it.",negative,negative
+"The quality is acceptable for this price range. Overall, it is fine.",neutral,neutral
+It is a standard Bluetooth Speaker for everyday use.,neutral,neutral
+The product arrived damaged and support was unhelpful.,negative,negative
+Connection keeps dropping. I regret buying this.,negative,negative
+The Smartphone is okay. It performs the basic functions.,neutral,neutral
+"Average product with a few useful features. Overall, it is fine.",neutral,neutral
+Setup was straightforward and performance is moderate.,neutral,neutral
+"Very disappointed, poor quality and not worth the price. Overall, I dislike it.",negative,negative
+The Mouse is okay. It performs the basic functions.,neutral,neutral
+The Keyboard exceeded my expectations. Highly recommended.,positive,positive
+Does not work as advertised. Waste of money.,negative,negative
+I am very happy with this Monitor; great value for money.,positive,positive
+Some features are useful while others are ordinary.,neutral,neutral
+Clear sound and comfortable design. Very satisfied.,positive,positive
+"Bad build quality, buttons feel cheap.",negative,negative
+"Received a defective item. Would not recommend. Overall, I dislike it.",negative,negative
+The quality is acceptable for this price range.,neutral,neutral
+Battery life is great and setup was simple.,positive,positive
+"Fantastic purchase, no issues so far.",positive,positive
+Some features are useful while others are ordinary.,neutral,neutral
+"Fantastic purchase, no issues so far.",positive,positive
+"The product arrived damaged and support was unhelpful. Overall, I dislike it.",negative,negative
+Does not work as advertised. Waste of money.,negative,negative
+"It works, but there is nothing particularly special.",neutral,neutral
+"Fantastic purchase, no issues so far.",positive,positive
+Packaging was normal and delivery took three days.,neutral,neutral
+"Good quality materials and smooth performance. Overall, I like it.",positive,positive
+Product matches most of the description.,neutral,neutral
+The Laptop is okay. It performs the basic functions.,neutral,neutral
+"Excellent Bluetooth Speaker, works perfectly and the quality is impressive.",positive,positive
+Connection keeps dropping. I regret buying this.,negative,negative
+"Not bad, not great; an average experience.",neutral,neutral
+"Excellent Webcam, works perfectly and the quality is impressive. Overall, I like it.",positive,positive
+"Works exactly as described, worth buying. Overall, I like it.",positive,positive
+Good quality materials and smooth performance.,positive,positive
+"Packaging was normal and delivery took three days. Overall, it is fine.",neutral,neutral
+"It works, but there is nothing particularly special.",neutral,neutral
